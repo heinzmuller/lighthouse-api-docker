@@ -1,0 +1,16 @@
+{
+  "name": "lighthouse-api-docker",
+  "version": "1.0.0",
+  "description": "Lighthouse API",
+  "main": "server.js",
+  "scripts": {
+    "start": "server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lighthouse": "^5.4.0"
+  }
+}
