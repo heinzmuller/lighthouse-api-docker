@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "lighthouse": "^5.4.0"
+    "lighthouse": "^9.6.7"
   }
 }
